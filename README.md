@@ -66,10 +66,10 @@ npm run preview
 
 | 协议 | 控制路径 | 适用设备 |
 |------|---------|---------|
-|HTTP|边缘函数直连|WiFi智能设备|
-|MQTT|边缘函数→MQTT Broker|ESP32/智能设备|
-|串口|本地网关→串口|Arduino/单片机|
-|Modbus|本地网关→Modbus|工业设备|
+| HTTP | Edge Function 直连 | WiFi 智能设备 |
+| MQTT | Edge Function → MQTT Broker | ESP32 / 智能设备 |
+| Serial | 本地网关 → 串口 | Arduino / 单片机 |
+| Modbus | 本地网关 → Modbus | 工业设备 |
 | RTSP | 转码网关 → 浏览器 | IP 摄像头 |
 
 ### ESP32 固件示例
